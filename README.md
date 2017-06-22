@@ -1,3 +1,1 @@
-# hello-jenkins
-My super sample app to test out Jenkins.
-more change3
+Quick and dirty project to test github plugin in jenkns
